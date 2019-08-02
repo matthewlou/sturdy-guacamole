@@ -1,0 +1,35 @@
+Mono path[0] = 'C:/Users/Matthew Lou/Documents/child of lightning/build_0.3.1.0_Data/Managed'
+Mono path[1] = 'C:/Users/Matthew Lou/Documents/child of lightning/build_0.3.1.0_Data/Mono'
+Mono config path = 'C:/Users/Matthew Lou/Documents/child of lightning/build_0.3.1.0_Data/Mono/etc'
+PlayerConnection initialized from C:/Users/Matthew Lou/Documents/child of lightning/build_0.3.1.0_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55356
+Multi-casting "[IP] 192.168.1.4 [Port] 55356 [Flags] 2 [Guid] 3279900999 [EditorId] 1127988107 [Version] 1048832 [Id] WindowsPlayer(DESKTOP-NJK41RL) [Debug] 0" to [225.0.0.222:54997]...
+Started listening to [0.0.0.0:55356]
+PlayerConnection already initialized - listening to [0.0.0.0:55356]
+Player data archive not found at `C:/Users/Matthew Lou/Documents/child of lightning/build_0.3.1.0_Data/data.unity3d`, using local filesystemInitialize engine version: 5.6.1f1 (2860b30f0b54)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 515 (ID=0x191e)
+    Vendor:   Intel
+    VRAM:     1127 MB
+    Driver:   21.20.16.4550
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Matthew Lou\Documents\child of lightning\build_0.3.1.0_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Matthew Lou\Documents\child of lightning\build_0.3.1.0_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Matthew Lou\Documents\child of lightning\build_0.3.1.0_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Matthew Lou\Documents\child of lightning\build_0.3.1.0_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Matthew Lou\Documents\child of lightning\build_0.3.1.0_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Matthew Lou\Documents\child of lightning\build_0.3.1.0_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Matthew Lou\Documents\child of lightning\build_0.3.1.0_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Matthew Lou\Documents\child of lightning\build_0.3.1.0_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Matthew Lou\Documents\child of lightning\build_0.3.1.0_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Matthew Lou\Documents\child of lightning\build_0.3.1.0_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Matthew Lou\Documents\child of lightning\build_0.3.1.0_Data\Managed\TextMeshPro-5.6-1.0.56-Runtime.dll (this message is harmless)
+Loading C:\Users\Matthew Lou\Documents\child of lightning\build_0.3.1.0_Data\Managed\TextMeshPro-5.6-1.0.56-Runtime.dll into Unity Child Domain
+- Completed reload, in  2.795 seconds
+Platform assembly: C:\Users\Matthew Lou\Documents\child of lightning\build_0.3.1.0_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Matthew Lou\Documents\child of lightning\build_0.3.1.0_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
